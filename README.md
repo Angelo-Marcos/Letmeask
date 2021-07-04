@@ -4,8 +4,8 @@
 
 <br>
 
-### Let me ask
-Aplicação desenvolvida na Next Level Week Together!
+## Let me ask
+Aplicação desenvolvida na Next Level Week Together! By: Angelo, Denise e João Vitor
 ---
 Deploy: https://letmeask-1036b.web.app/
 
