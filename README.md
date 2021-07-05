@@ -4,7 +4,7 @@
 
 <br>
 
-Aplicação desenvolvida na Next Level Week Together! By: Angelo, Denise e João Vitor
+Aplicação desenvolvida na Next Level Week Together! By: Angelo Marcos, Denise Ferreira e João Vitor Souza
 ---
 Deploy: https://letmeask-1036b.web.app/
 
